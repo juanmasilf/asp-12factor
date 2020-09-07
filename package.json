@@ -1,0 +1,23 @@
+{
+  "name": "asp-12factor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmasilf/asp-12factor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmasilf/asp-12factor/issues"
+  },
+  "homepage": "https://github.com/juanmasilf/asp-12factor#readme",
+  "dependencies": {
+    "@koa/router": "^9.4.0",
+    "koa": "^2.13.0"
+  }
+}
