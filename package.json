@@ -18,6 +18,7 @@
   "homepage": "https://github.com/juanmasilf/asp-12factor#readme",
   "dependencies": {
     "@koa/router": "^9.4.0",
+    "config": "^3.3.1",
     "koa": "^2.13.0"
   }
 }
