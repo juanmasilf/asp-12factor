@@ -13,5 +13,5 @@ app
     .use(router.routes())
     .use(router.allowedMethods());
 
-console.log('Listening on');
+console.log(`Listening no ${PORT}`);
 app.listen(PORT);
